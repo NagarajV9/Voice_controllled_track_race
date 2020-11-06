@@ -1,0 +1,273 @@
+Base path: '/home/nagaraj/Unity/2019.4.13f1/Editor/Data', plugins path '/home/nagaraj/Unity/2019.4.13f1/Editor/Data/PlaybackEngines'
+Cmd: initializeCompiler
+Cmd: compileComputeKernel
+  api=15 insize=18731 outsize=16721 ok=1
+Cmd: compileComputeKernel
+  api=15 insize=18731 outsize=24982 ok=1
+Cmd: compileComputeKernel
+  api=18 insize=18731 outsize=33093 ok=1
+Cmd: compileComputeKernel
+  api=18 insize=18731 outsize=34381 ok=1
+Cmd: compileComputeKernel
+  api=18 insize=18731 outsize=56695 ok=1
+Cmd: compileComputeKernel
+  api=15 insize=1226 outsize=2229 ok=1
+Cmd: compileComputeKernel
+  api=15 insize=1505 outsize=3714 ok=1
+Cmd: compileComputeKernel
+  api=18 insize=1505 outsize=2335 ok=1
+Cmd: compileComputeKernel
+  api=15 insize=5032 outsize=11508 ok=1
+Cmd: compileComputeKernel
+  api=18 insize=5032 outsize=17333 ok=1
+Cmd: compileComputeKernel
+  api=15 insize=7960 outsize=3484 ok=1
+Cmd: compileComputeKernel
+  api=15 insize=7960 outsize=3188 ok=1
+Cmd: compileComputeKernel
+  api=15 insize=7960 outsize=2938 ok=1
+Cmd: compileComputeKernel
+  api=18 insize=7960 outsize=4565 ok=1
+Cmd: compileComputeKernel
+  api=18 insize=7960 outsize=4629 ok=1
+Cmd: compileComputeKernel
+  api=18 insize=7960 outsize=5715 ok=1
+Cmd: compileComputeKernel
+  api=15 insize=9919 outsize=4040 ok=1
+Cmd: compileComputeKernel
+  api=15 insize=9919 outsize=4802 ok=1
+Cmd: compileComputeKernel
+  api=15 insize=9919 outsize=4084 ok=1
+Cmd: compileComputeKernel
+  api=18 insize=9919 outsize=7275 ok=1
+Cmd: compileComputeKernel
+  api=18 insize=9919 outsize=8731 ok=1
+Cmd: compileComputeKernel
+  api=18 insize=9919 outsize=7352 ok=1
+Cmd: compileComputeKernel
+  api=18 insize=9919 outsize=7973 ok=1
+Cmd: compileComputeKernel
+  api=18 insize=1864 outsize=6517 ok=1
+Cmd: compileComputeKernel
+  api=15 insize=6546 outsize=4319 ok=1
+Cmd: compileComputeKernel
+  api=15 insize=6546 outsize=3215 ok=1
+Cmd: compileComputeKernel
+  api=18 insize=6546 outsize=7660 ok=1
+Cmd: compileComputeKernel
+  api=18 insize=6546 outsize=6963 ok=1
+Cmd: compileComputeKernel
+  api=15 insize=3158 outsize=83032 ok=1
+Cmd: compileComputeKernel
+  api=15 insize=11176 outsize=21931 ok=1
+Cmd: compileComputeKernel
+  error: 1 plat 15 at Tensor.cginc(141): use of potentially uninitialized variable (ReadonlyTensor::SafeGet)
+  api=15 insize=47665 outsize=6814 ok=1
+Cmd: compileComputeKernel
+  api=15 insize=47665 outsize=3681 ok=1
+Cmd: compileComputeKernel
+  error: 1 plat 15 at Tensor.cginc(141): use of potentially uninitialized variable (ReadonlyTensor::SafeGet)
+  api=15 insize=47665 outsize=5159 ok=1
+Cmd: compileComputeKernel
+  api=15 insize=47665 outsize=3704 ok=1
+Cmd: compileComputeKernel
+  api=15 insize=47665 outsize=3039 ok=1
+Cmd: compileComputeKernel
+  api=15 insize=47665 outsize=3010 ok=1
+Cmd: compileComputeKernel
+  api=15 insize=47665 outsize=3627 ok=1
+Cmd: compileComputeKernel
+  api=15 insize=47665 outsize=3091 ok=1
+Cmd: compileComputeKernel
+  api=15 insize=47665 outsize=3036 ok=1
+Cmd: compileComputeKernel
+  api=15 insize=47665 outsize=3026 ok=1
+Cmd: compileComputeKernel
+  api=15 insize=47665 outsize=4266 ok=1
+Cmd: compileComputeKernel
+  api=15 insize=47665 outsize=4310 ok=1
+Cmd: compileComputeKernel
+  api=15 insize=47665 outsize=4309 ok=1
+Cmd: compileComputeKernel
+  api=15 insize=47665 outsize=3044 ok=1
+Cmd: compileComputeKernel
+  api=15 insize=47665 outsize=3102 ok=1
+Cmd: compileComputeKernel
+  api=15 insize=47665 outsize=3488 ok=1
+Cmd: compileComputeKernel
+  api=15 insize=47665 outsize=3879 ok=1
+Cmd: compileComputeKernel
+  api=18 insize=47665 outsize=6986 ok=1
+Cmd: compileComputeKernel
+  api=18 insize=47665 outsize=12131 ok=1
+Cmd: compileComputeKernel
+  error: 1 plat 18 at Tensor.cginc(141): use of potentially uninitialized variable (ReadonlyTensor::SafeGet)
+  api=18 insize=47665 outsize=9164 ok=1
+Cmd: compileComputeKernel
+  api=18 insize=47665 outsize=6002 ok=1
+Cmd: compileComputeKernel
+  api=18 insize=47665 outsize=11527 ok=1
+Cmd: compileComputeKernel
+  api=18 insize=47665 outsize=5900 ok=1
+Cmd: compileComputeKernel
+  api=18 insize=47665 outsize=5854 ok=1
+Cmd: compileComputeKernel
+  api=18 insize=47665 outsize=6302 ok=1
+Cmd: compileComputeKernel
+  api=18 insize=47665 outsize=5675 ok=1
+Cmd: compileComputeKernel
+  api=18 insize=47665 outsize=7923 ok=1
+Cmd: compileComputeKernel
+  api=18 insize=47665 outsize=9379 ok=1
+Cmd: compileComputeKernel
+  api=18 insize=47665 outsize=8000 ok=1
+Cmd: compileComputeKernel
+  api=18 insize=47665 outsize=8621 ok=1
+Cmd: compileComputeKernel
+  api=18 insize=47665 outsize=5812 ok=1
+Cmd: compileComputeKernel
+  api=18 insize=47665 outsize=5813 ok=1
+Cmd: compileComputeKernel
+  api=18 insize=47665 outsize=6300 ok=1
+Cmd: compileComputeKernel
+  api=15 insize=2120 outsize=2120 ok=1
+Cmd: compileComputeKernel
+  api=18 insize=2134 outsize=7107 ok=1
+Cmd: compileComputeKernel
+  error: 1 plat 15 at Tensor.cginc(155): use of potentially uninitialized variable (ReadonlyTensor::SafeGet)
+  api=15 insize=68835 outsize=25226 ok=1
+Cmd: compileComputeKernel
+  api=15 insize=68835 outsize=6908 ok=1
+Cmd: compileComputeKernel
+  error: 1 plat 18 at Tensor.cginc(155): use of potentially uninitialized variable (ReadonlyTensor::SafeGet)
+  api=18 insize=68835 outsize=40845 ok=1
+Cmd: compileComputeKernel
+  api=18 insize=68835 outsize=18492 ok=1
+Cmd: compileComputeKernel
+  api=18 insize=68835 outsize=13032 ok=1
+Cmd: compileComputeKernel
+  api=15 insize=3532 outsize=5398 ok=1
+Cmd: compileComputeKernel
+  api=15 insize=1957 outsize=1588 ok=1
+Cmd: compileComputeKernel
+  api=18 insize=1957 outsize=2487 ok=1
+Cmd: compileComputeKernel
+  api=15 insize=29386 outsize=1825 ok=1
+Cmd: compileComputeKernel
+  api=15 insize=29386 outsize=1510 ok=1
+Cmd: compileComputeKernel
+  api=15 insize=29386 outsize=1964 ok=1
+Cmd: compileComputeKernel
+  api=15 insize=29386 outsize=2252 ok=1
+Cmd: compileComputeKernel
+  api=15 insize=29386 outsize=1716 ok=1
+Cmd: compileComputeKernel
+  api=15 insize=29386 outsize=2039 ok=1
+Cmd: compileComputeKernel
+  api=15 insize=29386 outsize=2174 ok=1
+Cmd: compileComputeKernel
+  api=15 insize=29386 outsize=1573 ok=1
+Cmd: compileComputeKernel
+  api=15 insize=29386 outsize=1962 ok=1
+Cmd: compileComputeKernel
+  api=15 insize=29386 outsize=1991 ok=1
+Cmd: compileComputeKernel
+  api=15 insize=29386 outsize=1983 ok=1
+Cmd: compileComputeKernel
+  api=15 insize=29386 outsize=2939 ok=1
+Cmd: compileComputeKernel
+  api=15 insize=29386 outsize=2973 ok=1
+Cmd: compileComputeKernel
+  api=15 insize=29386 outsize=3284 ok=1
+Cmd: compileComputeKernel
+  api=15 insize=29386 outsize=3021 ok=1
+Cmd: compileComputeKernel
+  api=15 insize=29386 outsize=3087 ok=1
+Cmd: compileComputeKernel
+  api=15 insize=29386 outsize=3214 ok=1
+Cmd: compileComputeKernel
+  api=15 insize=29386 outsize=2933 ok=1
+Cmd: compileComputeKernel
+  api=15 insize=29386 outsize=3018 ok=1
+Cmd: compileComputeKernel
+  api=15 insize=29386 outsize=2982 ok=1
+Cmd: compileComputeKernel
+  api=15 insize=29386 outsize=3455 ok=1
+Cmd: compileComputeKernel
+  api=15 insize=29386 outsize=3036 ok=1
+Cmd: compileComputeKernel
+  api=18 insize=29386 outsize=3364 ok=1
+Cmd: compileComputeKernel
+  api=18 insize=29386 outsize=3223 ok=1
+Cmd: compileComputeKernel
+  api=18 insize=29386 outsize=4509 ok=1
+Cmd: compileComputeKernel
+  api=18 insize=29386 outsize=3382 ok=1
+Cmd: compileComputeKernel
+  api=18 insize=29386 outsize=3598 ok=1
+Cmd: compileComputeKernel
+  api=18 insize=29386 outsize=3619 ok=1
+Cmd: compileComputeKernel
+  api=18 insize=29386 outsize=3397 ok=1
+Cmd: compileComputeKernel
+  api=18 insize=29386 outsize=3436 ok=1
+Cmd: compileComputeKernel
+  api=18 insize=29386 outsize=3130 ok=1
+Cmd: compileComputeKernel
+  api=18 insize=29386 outsize=3594 ok=1
+Cmd: compileComputeKernel
+  api=18 insize=29386 outsize=3369 ok=1
+Cmd: compileComputeKernel
+  api=18 insize=29386 outsize=5564 ok=1
+Cmd: compileComputeKernel
+  api=18 insize=29386 outsize=7492 ok=1
+Cmd: compileComputeKernel
+  api=18 insize=29386 outsize=6171 ok=1
+Cmd: compileComputeKernel
+  api=18 insize=29386 outsize=5584 ok=1
+Cmd: compileComputeKernel
+  api=18 insize=29386 outsize=5691 ok=1
+Cmd: compileComputeKernel
+  api=18 insize=29386 outsize=6033 ok=1
+Cmd: compileComputeKernel
+  api=18 insize=29386 outsize=5422 ok=1
+Cmd: compileComputeKernel
+  api=18 insize=29386 outsize=5607 ok=1
+Cmd: compileComputeKernel
+  api=18 insize=29386 outsize=5544 ok=1
+Cmd: compileComputeKernel
+  api=18 insize=29386 outsize=6606 ok=1
+Cmd: compileComputeKernel
+  api=18 insize=29386 outsize=5783 ok=1
+Cmd: compileComputeKernel
+  api=15 insize=31899 outsize=22094 ok=1
+Cmd: compileComputeKernel
+  api=18 insize=31899 outsize=10747 ok=1
+Cmd: compileComputeKernel
+  api=18 insize=31899 outsize=30308 ok=1
+Cmd: compileComputeKernel
+  api=18 insize=31899 outsize=16832 ok=1
+Cmd: compileComputeKernel
+  api=18 insize=31899 outsize=11940 ok=1
+Cmd: compileComputeKernel
+  api=18 insize=31899 outsize=14585 ok=1
+Cmd: compileComputeKernel
+  api=15 insize=4119 outsize=3757 ok=1
+Cmd: compileComputeKernel
+  api=18 insize=4119 outsize=7777 ok=1
+Cmd: compileSnippet
+  api=15 type=1 insize=1554 outsize=0 kw=UNITY_PASS_DEFERRED LIGHTPROBE_SH UNITY_HDR_ON INSTANCING_ON pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR ok=1
+Cmd: compileSnippet
+  api=15 type=1 insize=1554 outsize=0 kw=UNITY_PASS_DEFERRED LIGHTPROBE_SH UNITY_HDR_ON pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR ok=1
+Cmd: compileSnippet
+  api=15 type=0 insize=1554 outsize=8238 kw=UNITY_PASS_DEFERRED LIGHTPROBE_SH _EMISSION UNITY_HDR_ON pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR ok=1
+Cmd: compileSnippet
+  api=15 type=1 insize=1554 outsize=0 kw=UNITY_PASS_DEFERRED LIGHTPROBE_SH _EMISSION UNITY_HDR_ON pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR ok=1
+Cmd: compileSnippet
+  api=15 type=0 insize=1224 outsize=2307 kw=UNITY_HDR_ON pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR ok=1
+Cmd: compileSnippet
+  api=15 type=1 insize=11846 outsize=0 kw=SHADOWS_SPLIT_SPHERES pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR ok=1
+Cmd: compileSnippet
+  api=15 type=0 insize=2104 outsize=8168 kw=DIRECTIONAL SHADOWS_SCREEN UNITY_HDR_ON pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR ok=1
+
+Quitting shader compiler process
